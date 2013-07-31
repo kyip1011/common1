@@ -10,6 +10,10 @@ public class Util1 {
 		return a + b;
 	}
 	
+	public static int add3(int a, int b, int c) {
+		return a + b + c;
+	}
+	
 	public static int multiply(int a, int b) {
 		return a * b;
 	}
